@@ -1,6 +1,6 @@
 # Water Animation Using Gerstner Waves
 
-![Image of wireframe water animation](../result/WaterAnimation.png)
+![Image of wireframe water animation](./result/WaterAnimation.png)
 
 ## Description
 
